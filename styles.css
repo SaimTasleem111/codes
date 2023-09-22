@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  border: 3px solid red;
+  color: beige;
+  margin-top: 350px;
+}
+
+body {
+  background-color: black;
+}
